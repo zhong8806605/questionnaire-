@@ -1,0 +1,18 @@
+.questionnaireHeader{
+	display: flex;
+	align-items:center;
+	height: 3rem;
+	background-color: #ccc;
+}
+.headline{
+	margin: 0 8rem;
+}
+.time,.states{
+	margin: 0 5rem;
+}
+.questionnaireHeader button {
+	height: 1.5rem;
+	background-color:#ee7419;
+	border-radius: 0.2rem;
+	color: #fff;
+}

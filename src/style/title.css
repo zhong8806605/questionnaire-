@@ -1,0 +1,10 @@
+.title{
+	height: 2.5rem;
+	background-color: #ee7419;
+}
+.myQuestionnaire{
+	margin-left: 3rem;
+	padding-top: 0.5rem;
+	color: #fff;
+	cursor: pointer;
+}
